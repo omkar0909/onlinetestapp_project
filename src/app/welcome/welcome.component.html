@@ -1,0 +1,18 @@
+<div class="container bg-light py-6">
+    <h1 class="display-5 fw-bold">Welcome to Online Test Application</h1>
+    <p class="col-md-8 fs-4"> This Test Will Contail Total 10 Question. Each Question carry 2 points</p>
+    <h4>Rules&Accommodations:</h4>
+    <ol>
+        <li>Correct Question Gives You 2 Points</li>
+        <li>Incorrect Question Gives You -2 Points</li>
+        <li>You Will Hvae 25 sce to Answer Each Question</li>
+        <li>No Use Of Additional Applications Or Internet</li>
+        <li>Refreshing The Page Will Reset The Test</li>
+    </ol>
+    <h1 style="font-family: Georgia, 'Times New Roman', Times, serif;text-align:center">All The Best!!!</h1>
+    <div class="name col-md-4 my-3">
+        <label for="">Enter Your Name:</label>
+        <input #name type="text" class="form-control">
+    </div>
+    <button class="btn btn-primary btn-lg" routerLink="/question" (click)="startTest()">Start The Test!</button>
+</div>

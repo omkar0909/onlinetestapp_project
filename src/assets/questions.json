@@ -1,0 +1,185 @@
+{
+    "questions": [{
+            "questionText": "Which of the following class in Bootstrap is used to provide a responsive fixed width container?",
+
+            
+            "options": [{
+                    "text": ".container",
+                    "correct": true
+                },
+                {
+                    "text": ".container-fixed "
+                },
+                {
+                    "text": ".container-fluid"
+                },
+                {
+                    "text": "All of the above"
+                }
+            ],
+            "explanation": "The .container class is used to create boxed content."
+        },
+        {
+            "questionText": "Which of the following class in bootstrap is used to create a big box for calling extra attention? ",
+            "options": [{
+                    "text": ".box"
+                },
+                {
+                    "text": ".container "
+                },
+                {
+                    "text": ".container-fluid "
+                },
+                {
+                    "text": ".jumbotron",
+                    "correct": true
+                }
+            ],
+            "explanation": "The class .jumbotron within the <div> element is used to create a jumbotron."
+        },
+        {
+            "questionText": "The plugin used to create a cycle through elements as a slideshow is ?",
+            "options": [{
+                    "text": "slideshow"
+                },
+                {
+                    "text": "carousel",
+                    "correct": true
+                },
+                {
+                    "text": "scrollspy"
+                },
+                {
+                    "text": "None of the above"
+                }
+            ],
+            "explanation": "If you want to add plugin functionality individually, then you have to use carousel.js file all at once (using bootstrap.js or bootstrap.min.js)."
+        },
+        {
+            "questionText": " Which of the following class in Bootstrap is used to create a dropdown menu?",
+            "options": [{
+                    "text": ".select"
+                },
+                {
+                    "text": ".dropdown",
+                    "correct": true
+                },
+                {
+                    "text": ".selectlist"
+                },
+                {
+                    "text": "None of the above"
+                }
+            ],
+            "explanation": " We have to wrap dropdown menu within the class .dropdown to create Bootstrap Dropdown."
+        },
+        {
+            "questionText": "Which of the following plugin in Bootstrap is used to create a modal window?",
+            "options": [{
+                    "text": "modal",
+                    "correct": true
+                },
+                {
+                    "text": "popup"
+                },
+                {
+                    "text": "alert"
+                },
+                {
+                    "text": "window"
+                }
+            ],
+            "explanation": "The bootstrap modal plugin is a dialog box/popup window that is displayed on top of the current page."
+        },
+        {
+            "questionText": "TypeScript is a ?",
+            "options": [{
+                    "text": "strongly typed"
+                },
+                {
+                    "text": "object oriented"
+                },
+                {
+                    "text": "compiled language"
+                },
+                {
+                    "text": "All of the above",
+                    "correct": true
+                }
+            ],
+            "explanation": "TypeScript is a strongly typed, object oriented, compiled language. It was designed by Anders Hejlsberg (designer of C#) at Microsoft."
+        },
+        {
+            "questionText": "Which keyword allows us to share information between files in TypeScript?",
+            "options": [{
+                    "text": "import"
+                },
+                {
+                    "text": "export",
+                    "correct": true
+                },
+                {
+                    "text": "async"
+                },
+                {
+                    "text": "constructor"
+                }
+            ],
+            "explanation": "the export keyword allows for the information to be transmitted between files"
+        },
+        {
+            "questionText": " Extension of typescript is?",
+            "options": [{
+                    "text": ".d.ts",
+                    "correct": true
+                },
+                {
+                    "text": ".d.ty"
+                },
+                {
+                    "text": ".d.tp"
+                },
+                {
+                    "text": ".d.tq"
+                }
+            ],
+            "explanation": "TypeScript Definition file (with .d.ts extension) provides definition for external JavaScript libraries."
+        },
+        {
+            "questionText": "Which of the following are features of typeScript?",
+            "options": [{
+                    "text": "TypeScript is just JavaScript "
+                },
+                {
+                    "text": "Accessors"
+                },
+                {
+                    "text": "Destructuring"
+                },
+                {
+                    "text": "All of the above",
+                    "correct": true
+                }
+            ],
+            "explanation": " All of the above are the Features of TypeScript."
+        },
+        {
+            "questionText": "What are the benefits of TypeScript?",
+            "options": [{
+                    "text": "It helps in code structure "
+                },
+                {
+                    "text": "Use calss based object oriented Programming"
+                },
+                {
+                    "text": "Imposed coding guidelines"
+                },
+                {
+                    "text": "All of the above",
+                    "correct": true
+                }
+            ],
+            "explanation": " All of the above are the Benefits of TypeScript."
+        }
+    ]
+}
